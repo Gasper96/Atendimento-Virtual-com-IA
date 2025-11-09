@@ -34,13 +34,13 @@ Principais recursos:
           setx chave_openai "sua_chave_aqui" }
 
 - Passo a Passo para Testes:
-  I) Execute o script com python agendamento_saudeviva.py
+  I) Execute o script com python agendamento_saudeviva.py.
   II) Escolha a opção 1 para agendar uma consulta.
   III) Digite algo como:
                       Quero agendar uma consulta para Maria segunda-feira às 09:30.
   IV) Verifique se o sistema:
-                      Cria ou atualiza o arquivo consultas.json
+                      Cria ou atualiza o arquivo consultas.json.
                       Retorna a mensagem de confirmação com nome, data e hora.
   V) Use a opção 2 para listar consultas.
   VI) Use a opção 3 e insira o ID para cancelar uma consulta.
-  VII) Repita o teste variando frases, horários e nomes!
+  VII) Repita o teste variando frases, horários e nomes.
