@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Gabriel",
+        "data": "2025-11-10",
+        "hora": "10:00",
+        "duracao_min": 30,
+        "status": "marcada",
+        "medico": "Dr. Carlos — Clínico Geral"
+    },
+    {
+        "id": 2,
+        "nome": "lucas lucas",
+        "data": "2025-11-14",
+        "hora": "12:45",
+        "duracao_min": 30,
+        "status": "cancelada",
+        "medico": "Dr. Carlos — Clínico Geral"
+    }
+]
